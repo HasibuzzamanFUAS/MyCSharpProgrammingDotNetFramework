@@ -1,0 +1,14 @@
+E:\Skill Development\Git & Github, C# Dotnet\Practice C# VS\MyFirstProject\MyFirstProject\bin\Debug\net7.0\MyFirstProject.exe
+E:\Skill Development\Git & Github, C# Dotnet\Practice C# VS\MyFirstProject\MyFirstProject\bin\Debug\net7.0\MyFirstProject.deps.json
+E:\Skill Development\Git & Github, C# Dotnet\Practice C# VS\MyFirstProject\MyFirstProject\bin\Debug\net7.0\MyFirstProject.runtimeconfig.json
+E:\Skill Development\Git & Github, C# Dotnet\Practice C# VS\MyFirstProject\MyFirstProject\bin\Debug\net7.0\MyFirstProject.dll
+E:\Skill Development\Git & Github, C# Dotnet\Practice C# VS\MyFirstProject\MyFirstProject\bin\Debug\net7.0\MyFirstProject.pdb
+E:\Skill Development\Git & Github, C# Dotnet\Practice C# VS\MyFirstProject\MyFirstProject\obj\Debug\net7.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Skill Development\Git & Github, C# Dotnet\Practice C# VS\MyFirstProject\MyFirstProject\obj\Debug\net7.0\MyFirstProject.AssemblyInfoInputs.cache
+E:\Skill Development\Git & Github, C# Dotnet\Practice C# VS\MyFirstProject\MyFirstProject\obj\Debug\net7.0\MyFirstProject.AssemblyInfo.cs
+E:\Skill Development\Git & Github, C# Dotnet\Practice C# VS\MyFirstProject\MyFirstProject\obj\Debug\net7.0\MyFirstProject.csproj.CoreCompileInputs.cache
+E:\Skill Development\Git & Github, C# Dotnet\Practice C# VS\MyFirstProject\MyFirstProject\obj\Debug\net7.0\MyFirstProject.dll
+E:\Skill Development\Git & Github, C# Dotnet\Practice C# VS\MyFirstProject\MyFirstProject\obj\Debug\net7.0\refint\MyFirstProject.dll
+E:\Skill Development\Git & Github, C# Dotnet\Practice C# VS\MyFirstProject\MyFirstProject\obj\Debug\net7.0\MyFirstProject.pdb
+E:\Skill Development\Git & Github, C# Dotnet\Practice C# VS\MyFirstProject\MyFirstProject\obj\Debug\net7.0\MyFirstProject.genruntimeconfig.cache
+E:\Skill Development\Git & Github, C# Dotnet\Practice C# VS\MyFirstProject\MyFirstProject\obj\Debug\net7.0\ref\MyFirstProject.dll
