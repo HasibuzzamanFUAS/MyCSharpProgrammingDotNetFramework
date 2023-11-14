@@ -10,7 +10,7 @@ namespace TakeInputFromUser
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please Enter Your Name: ");
+            Console.WriteLine("please enter your name: ");
             Console.WriteLine(Console.ReadLine());
             Console.WriteLine("Please Enter Your Age: ");
             Console.WriteLine(Console.ReadLine());
