@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 
 namespace WritePrintRead
 {
@@ -7,8 +6,9 @@ namespace WritePrintRead
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! This is my Write Print Read Code");
+            Console.WriteLine("Hello FOlk, This is my Write Print Read Code, Thanks!");
             Console.ReadLine();
+
         }
     }
 }
