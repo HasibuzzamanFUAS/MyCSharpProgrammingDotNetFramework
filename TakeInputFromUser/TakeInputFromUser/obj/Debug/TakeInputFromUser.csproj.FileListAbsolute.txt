@@ -1,0 +1,7 @@
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\TakeInputFromUser\TakeInputFromUser\bin\Debug\TakeInputFromUser.exe.config
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\TakeInputFromUser\TakeInputFromUser\bin\Debug\TakeInputFromUser.exe
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\TakeInputFromUser\TakeInputFromUser\bin\Debug\TakeInputFromUser.pdb
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\TakeInputFromUser\TakeInputFromUser\obj\Debug\TakeInputFromUser.csproj.AssemblyReference.cache
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\TakeInputFromUser\TakeInputFromUser\obj\Debug\TakeInputFromUser.csproj.CoreCompileInputs.cache
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\TakeInputFromUser\TakeInputFromUser\obj\Debug\TakeInputFromUser.exe
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\TakeInputFromUser\TakeInputFromUser\obj\Debug\TakeInputFromUser.pdb
