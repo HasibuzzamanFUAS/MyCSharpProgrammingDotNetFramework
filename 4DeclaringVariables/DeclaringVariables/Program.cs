@@ -11,7 +11,7 @@ namespace DeclaringVariables
         static void Main(string[] args)
         {
             byte number = 255; //declared a variable called "number" which is 255
-            Console.WriteLine("First Byte variable: "+number); //print the assign variable number
+            Console.WriteLine("First Byte variable: "+number); //print the assigned variable number
             number = 250; //here we assign again another variable and the previous value is cleaned by default.
             Console.WriteLine("Latest byte Variable: "+number);  //here print the latest assign variable
 
@@ -39,13 +39,13 @@ namespace DeclaringVariables
             string v8 = "Hasibuzzaman";   //string always write in between double qoutation
             Console.WriteLine("String type variable: " + v8); //print tring
 
-            number = (byte) (number + 6); // the result will be 0 caused system is overflow (byte range max 255)
+            number = (byte) (number + 6); // the result will be 0 caused by system overflow (byte-range max 255)
             Console.WriteLine("Overflow result for Byte type variable: "+number);  //here print the latest assign variable
 
            
 
-            //important: v1, v2 ... v8 all are idetifier which can not start with a number neigther a white space(eg. "1v" or "va name")
-            // can't use the reseve keyword, if you want to use then add the sign @ (eg. @string)
+            //important: v1, v2 ... v8 all are identifiers which can not start with a number neither a white space(eg. "1v" or "va name")
+            // can't use the reserved keyword, if you want to use then add the sign @ (eg. @string)
             
 
             Console.ReadLine();
