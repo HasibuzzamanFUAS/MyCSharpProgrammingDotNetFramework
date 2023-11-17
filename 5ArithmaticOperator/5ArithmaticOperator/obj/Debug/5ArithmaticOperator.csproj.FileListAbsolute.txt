@@ -1,0 +1,7 @@
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\5ArithmaticOperator\5ArithmaticOperator\bin\Debug\5ArithmaticOperator.exe.config
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\5ArithmaticOperator\5ArithmaticOperator\bin\Debug\5ArithmaticOperator.exe
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\5ArithmaticOperator\5ArithmaticOperator\bin\Debug\5ArithmaticOperator.pdb
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\5ArithmaticOperator\5ArithmaticOperator\obj\Debug\5ArithmaticOperator.csproj.AssemblyReference.cache
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\5ArithmaticOperator\5ArithmaticOperator\obj\Debug\5ArithmaticOperator.csproj.CoreCompileInputs.cache
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\5ArithmaticOperator\5ArithmaticOperator\obj\Debug\5ArithmaticOperator.exe
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\5ArithmaticOperator\5ArithmaticOperator\obj\Debug\5ArithmaticOperator.pdb
