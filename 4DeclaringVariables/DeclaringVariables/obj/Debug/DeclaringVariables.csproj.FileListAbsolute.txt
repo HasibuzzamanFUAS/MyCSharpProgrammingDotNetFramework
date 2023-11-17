@@ -1,0 +1,7 @@
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\DeclaringVariables\DeclaringVariables\bin\Debug\DeclaringVariables.exe.config
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\DeclaringVariables\DeclaringVariables\bin\Debug\DeclaringVariables.exe
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\DeclaringVariables\DeclaringVariables\bin\Debug\DeclaringVariables.pdb
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\DeclaringVariables\DeclaringVariables\obj\Debug\DeclaringVariables.csproj.AssemblyReference.cache
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\DeclaringVariables\DeclaringVariables\obj\Debug\DeclaringVariables.csproj.CoreCompileInputs.cache
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\DeclaringVariables\DeclaringVariables\obj\Debug\DeclaringVariables.exe
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\DeclaringVariables\DeclaringVariables\obj\Debug\DeclaringVariables.pdb
