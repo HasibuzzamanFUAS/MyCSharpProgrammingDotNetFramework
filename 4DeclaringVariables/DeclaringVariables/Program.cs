@@ -45,7 +45,7 @@ namespace DeclaringVariables
            
 
             //important: v1, v2 ... v8 all are idetifier which can not start with a number neigther a white space(eg. "1v" or "va name")
-            // can't use the reseve keyword, if you want to use then add the sign @ (eg. @string)
+            // can't use the reserve keyword, if you want to use then add the sign @ (eg. @string)
             
 
             Console.ReadLine();
