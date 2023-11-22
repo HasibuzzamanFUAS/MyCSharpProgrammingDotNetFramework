@@ -1,0 +1,7 @@
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\WritePrintRead\WritePrintRead\bin\Debug\WritePrintRead.exe.config
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\WritePrintRead\WritePrintRead\bin\Debug\WritePrintRead.exe
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\WritePrintRead\WritePrintRead\bin\Debug\WritePrintRead.pdb
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\WritePrintRead\WritePrintRead\obj\Debug\WritePrintRead.csproj.AssemblyReference.cache
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\WritePrintRead\WritePrintRead\obj\Debug\WritePrintRead.csproj.CoreCompileInputs.cache
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\WritePrintRead\WritePrintRead\obj\Debug\WritePrintRead.exe
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\WritePrintRead\WritePrintRead\obj\Debug\WritePrintRead.pdb

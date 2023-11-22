@@ -1,0 +1,7 @@
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\OperatorsBasic\OperatorsBasic\bin\Debug\OperatorsBasic.exe.config
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\OperatorsBasic\OperatorsBasic\bin\Debug\OperatorsBasic.exe
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\OperatorsBasic\OperatorsBasic\bin\Debug\OperatorsBasic.pdb
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\OperatorsBasic\OperatorsBasic\obj\Debug\OperatorsBasic.csproj.AssemblyReference.cache
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\OperatorsBasic\OperatorsBasic\obj\Debug\OperatorsBasic.csproj.CoreCompileInputs.cache
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\OperatorsBasic\OperatorsBasic\obj\Debug\OperatorsBasic.exe
+E:\Skill Development\C# Dotnet Framework\MyCSharpProgrammingDotNetFramework\OperatorsBasic\OperatorsBasic\obj\Debug\OperatorsBasic.pdb
